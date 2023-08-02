@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MohamedElsayed
-- 👀 I’m interested in programing 
-- 🌱 I’m currently learning Embedded system 
+- 👀 I’m interested in  programming 
+- 🌱 I’m currently learning Embedded System
 - 📫you can reach me via : https://www.linkedin.com/in/mohamed-elsayed-401823274/
 
 <!---
