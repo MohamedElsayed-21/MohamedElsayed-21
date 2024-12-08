@@ -19,13 +19,13 @@
 
 
 
-
+<h3 align="center">
 ### Connect with Me :
 
 <a href="mailto:Mohamed_Elsayed22@hotmail.com"><img src="https://cdn.simpleicons.org/gmail/000/fff" alt="Python" height="40" width="40"></a>
 <a href="https://www.linkedin.com/in/mohamed-elsayed-401823274" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/linkedin/000/fff" alt="Python" height="40" width="40"></a>
 
-
+</h3>
 <!--
 ### 💻 Languages, Frameworks, Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
